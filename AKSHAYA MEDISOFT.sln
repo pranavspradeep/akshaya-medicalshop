@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AKSHAYA MEDISOFT", "MEDICALSHOP1\AKSHAYA MEDISOFT.csproj", "{1374AD1B-7FCE-4123-ABA9-F47491978E52}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AKSHAYA MANAGER", "AKSHAYA MANGER\AKSHAYA MANGER.vdproj", "{5A9B71EB-8E1D-440F-BEB4-26E7695CF021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1374AD1B-7FCE-4123-ABA9-F47491978E52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1374AD1B-7FCE-4123-ABA9-F47491978E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1374AD1B-7FCE-4123-ABA9-F47491978E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1374AD1B-7FCE-4123-ABA9-F47491978E52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A9B71EB-8E1D-440F-BEB4-26E7695CF021}.Debug|Any CPU.ActiveCfg = Debug
+		{5A9B71EB-8E1D-440F-BEB4-26E7695CF021}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13754B73-6BED-43C0-9FE6-D1EBD663E656}
+	EndGlobalSection
+EndGlobal
